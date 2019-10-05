@@ -1,0 +1,339 @@
+2019-04-26 16:56:42,244 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-26 16:57:12,446 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eventosapp:eventosapp:0.0.1-SNAPSHOT @ C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\pom.xml.
+2019-04-26 16:57:15,901 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cursospringboot/src/main/java
+2019-04-26 16:57:15,902 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cursospringboot/src/main/resources
+2019-04-26 16:57:15,929 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cursospringboot/src/main/resources
+2019-04-26 16:57:15,939 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cursospringboot/src/test/java
+2019-04-26 16:57:17,426 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2019-04-26 16:57:19,374 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 16:57:19,381 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 16:57:19,399 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 16:57:19,957 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 16:57:19,958 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 16:57:44,308 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 16:57:44,310 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 16:57:44,311 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 16:57:44,312 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 16:57:44,313 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:01:52,922 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eventosapp:eventosapp:0.0.1-SNAPSHOT @ C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\pom.xml.
+2019-04-26 17:01:54,686 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cursospringboot/src/main/java
+2019-04-26 17:01:54,687 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cursospringboot/src/main/resources
+2019-04-26 17:01:54,698 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cursospringboot/src/main/resources
+2019-04-26 17:01:54,715 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cursospringboot/src/test/java
+2019-04-26 17:01:55,302 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-04-26 17:01:56,668 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:01:56,670 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 17:01:56,692 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 17:01:56,819 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:01:56,820 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:29:25,802 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/2.2.2/git-commit-id-plugin-2.2.2.pom
+2019-04-26 17:29:26,009 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/2.2.2/git-commit-id-plugin-2.2.2.pom
+2019-04-26 17:29:26,203 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/2.2.2/git-commit-id-plugin-2.2.2.jar
+2019-04-26 17:29:26,479 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/2.2.2/git-commit-id-plugin-2.2.2.jar
+2019-04-26 17:29:27,517 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eventosapp:eventosapp:0.0.1-SNAPSHOT @ C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\pom.xml.
+2019-04-26 17:29:28,879 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.pom
+2019-04-26 17:29:29,031 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.pom
+2019-04-26 17:29:29,170 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.1/maven-3.1.1.pom
+2019-04-26 17:29:29,309 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.1/maven-3.1.1.pom
+2019-04-26 17:29:29,452 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.pom
+2019-04-26 17:29:29,619 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.pom
+2019-04-26 17:29:29,766 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2019-04-26 17:29:29,928 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2019-04-26 17:29:30,127 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.pom
+2019-04-26 17:29:30,418 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.pom
+2019-04-26 17:29:30,698 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.pom
+2019-04-26 17:29:30,848 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.pom
+2019-04-26 17:29:30,989 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.0.0.M5/sisu-plexus-0.0.0.M5.pom
+2019-04-26 17:29:31,126 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.0.0.M5/sisu-plexus-0.0.0.M5.pom
+2019-04-26 17:29:31,266 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
+2019-04-26 17:29:31,423 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
+2019-04-26 17:29:31,562 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom
+2019-04-26 17:29:31,702 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom
+2019-04-26 17:29:31,843 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
+2019-04-26 17:29:32,005 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
+2019-04-26 17:29:32,145 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom
+2019-04-26 17:29:32,282 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom
+2019-04-26 17:29:32,453 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2019-04-26 17:29:32,654 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2019-04-26 17:29:32,927 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2019-04-26 17:29:33,064 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2019-04-26 17:29:33,204 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2019-04-26 17:29:33,346 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2019-04-26 17:29:33,486 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2019-04-26 17:29:33,621 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2019-04-26 17:29:33,763 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom
+2019-04-26 17:29:33,908 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom
+2019-04-26 17:29:34,059 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/3.1.0/guice-parent-3.1.0.pom
+2019-04-26 17:29:34,196 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/3.1.0/guice-parent-3.1.0.pom
+2019-04-26 17:29:34,339 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.pom
+2019-04-26 17:29:34,481 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.pom
+2019-04-26 17:29:34,621 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.0.0.M5/sisu-inject-0.0.0.M5.pom
+2019-04-26 17:29:34,758 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.0.0.M5/sisu-inject-0.0.0.M5.pom
+2019-04-26 17:29:34,919 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+2019-04-26 17:29:35,054 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+2019-04-26 17:29:35,235 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.pom
+2019-04-26 17:29:35,368 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.pom
+2019-04-26 17:29:35,517 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.pom
+2019-04-26 17:29:35,653 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.pom
+2019-04-26 17:29:35,805 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.pom
+2019-04-26 17:29:35,941 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.pom
+2019-04-26 17:29:36,101 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.pom
+2019-04-26 17:29:36,239 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.pom
+2019-04-26 17:29:36,379 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.pom
+2019-04-26 17:29:36,512 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.pom
+2019-04-26 17:29:36,656 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.pom
+2019-04-26 17:29:36,794 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.pom
+2019-04-26 17:29:36,944 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+2019-04-26 17:29:37,098 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+2019-04-26 17:29:37,257 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2019-04-26 17:29:37,458 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2019-04-26 17:29:37,651 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+2019-04-26 17:29:37,792 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+2019-04-26 17:29:37,954 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2019-04-26 17:29:38,087 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2019-04-26 17:29:38,227 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+2019-04-26 17:29:38,379 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+2019-04-26 17:29:38,521 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2019-04-26 17:29:38,666 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2019-04-26 17:29:38,808 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.4/jackson-databind-2.6.4.pom
+2019-04-26 17:29:38,943 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.4/jackson-databind-2.6.4.pom
+2019-04-26 17:29:39,082 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2019-04-26 17:29:39,219 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2019-04-26 17:29:39,368 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2019-04-26 17:29:39,504 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2019-04-26 17:29:39,666 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2019-04-26 17:29:39,820 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2019-04-26 17:29:39,964 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2019-04-26 17:29:40,102 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2019-04-26 17:29:40,242 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.4/jackson-core-2.6.4.pom
+2019-04-26 17:29:40,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.4/jackson-core-2.6.4.pom
+2019-04-26 17:29:40,520 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.1/joda-time-2.9.1.pom
+2019-04-26 17:29:40,661 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.1/joda-time-2.9.1.pom
+2019-04-26 17:29:40,801 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+2019-04-26 17:29:40,937 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+2019-04-26 17:29:41,074 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+2019-04-26 17:29:41,233 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+2019-04-26 17:29:41,375 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/intellij/annotations/12.0/annotations-12.0.pom
+2019-04-26 17:29:41,509 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/intellij/annotations/12.0/annotations-12.0.pom
+2019-04-26 17:29:41,664 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit/4.3.1.201605051710-r/org.eclipse.jgit-4.3.1.201605051710-r.pom
+2019-04-26 17:29:41,841 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit/4.3.1.201605051710-r/org.eclipse.jgit-4.3.1.201605051710-r.pom
+2019-04-26 17:29:42,029 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit-parent/4.3.1.201605051710-r/org.eclipse.jgit-parent-4.3.1.201605051710-r.pom
+2019-04-26 17:29:42,170 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit-parent/4.3.1.201605051710-r/org.eclipse.jgit-parent-4.3.1.201605051710-r.pom
+2019-04-26 17:29:42,313 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.53/jsch-0.1.53.pom
+2019-04-26 17:29:42,450 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.53/jsch-0.1.53.pom
+2019-04-26 17:29:42,588 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2019-04-26 17:29:42,732 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2019-04-26 17:29:42,873 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/javaewah/JavaEWAH/0.7.9/JavaEWAH-0.7.9.pom
+2019-04-26 17:29:43,009 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/javaewah/JavaEWAH/0.7.9/JavaEWAH-0.7.9.pom
+2019-04-26 17:29:43,178 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.pom
+2019-04-26 17:29:43,325 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.pom
+2019-04-26 17:29:43,463 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.6/httpcomponents-client-4.3.6.pom
+2019-04-26 17:29:43,599 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.6/httpcomponents-client-4.3.6.pom
+2019-04-26 17:29:43,762 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.pom
+2019-04-26 17:29:43,908 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.pom
+2019-04-26 17:29:44,045 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.3/httpcomponents-core-4.3.3.pom
+2019-04-26 17:29:44,211 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.3/httpcomponents-core-4.3.3.pom
+2019-04-26 17:29:44,510 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2019-04-26 17:29:44,661 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2019-04-26 17:29:44,891 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.pom
+2019-04-26 17:29:45,040 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.pom
+2019-04-26 17:29:45,198 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.2/slf4j-parent-1.7.2.pom
+2019-04-26 17:29:45,360 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.2/slf4j-parent-1.7.2.pom
+2019-04-26 17:29:45,576 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar
+2019-04-26 17:29:45,785 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar
+2019-04-26 17:29:45,917 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.jar
+2019-04-26 17:29:46,342 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.jar
+2019-04-26 17:29:46,483 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.jar
+2019-04-26 17:29:46,757 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.jar
+2019-04-26 17:29:46,890 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar
+2019-04-26 17:29:47,162 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar
+2019-04-26 17:29:47,297 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
+2019-04-26 17:29:47,440 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
+2019-04-26 17:29:47,569 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2019-04-26 17:29:47,750 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2019-04-26 17:29:47,880 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar
+2019-04-26 17:29:48,157 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar
+2019-04-26 17:29:48,290 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar
+2019-04-26 17:29:48,484 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar
+2019-04-26 17:29:48,619 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.jar
+2019-04-26 17:29:48,869 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.jar
+2019-04-26 17:29:48,997 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar
+2019-04-26 17:29:49,141 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar
+2019-04-26 17:29:49,274 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar
+2019-04-26 17:29:49,414 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar
+2019-04-26 17:29:49,547 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.jar
+2019-04-26 17:29:49,686 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.jar
+2019-04-26 17:29:49,820 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.jar
+2019-04-26 17:29:49,984 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.jar
+2019-04-26 17:29:50,118 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.jar
+2019-04-26 17:29:50,262 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.jar
+2019-04-26 17:29:50,389 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+2019-04-26 17:29:50,564 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+2019-04-26 17:29:50,692 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+2019-04-26 17:29:50,858 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+2019-04-26 17:29:50,990 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+2019-04-26 17:29:51,148 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+2019-04-26 17:29:51,282 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2019-04-26 17:29:51,441 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2019-04-26 17:29:51,573 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar
+2019-04-26 17:29:51,719 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar
+2019-04-26 17:29:51,852 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2019-04-26 17:29:52,039 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2019-04-26 17:29:52,171 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.jar
+2019-04-26 17:29:52,310 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.jar
+2019-04-26 17:29:52,438 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.4/jackson-databind-2.6.4.jar
+2019-04-26 17:29:52,861 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.4/jackson-databind-2.6.4.jar
+2019-04-26 17:29:52,993 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar
+2019-04-26 17:29:53,134 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar
+2019-04-26 17:29:53,272 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.4/jackson-core-2.6.4.jar
+2019-04-26 17:29:53,457 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.4/jackson-core-2.6.4.jar
+2019-04-26 17:29:53,597 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.1/joda-time-2.9.1.jar
+2019-04-26 17:29:53,863 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.1/joda-time-2.9.1.jar
+2019-04-26 17:29:53,995 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
+2019-04-26 17:29:54,697 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
+2019-04-26 17:29:54,830 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/intellij/annotations/12.0/annotations-12.0.jar
+2019-04-26 17:29:54,965 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/intellij/annotations/12.0/annotations-12.0.jar
+2019-04-26 17:29:55,094 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit/4.3.1.201605051710-r/org.eclipse.jgit-4.3.1.201605051710-r.jar
+2019-04-26 17:29:55,766 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit/4.3.1.201605051710-r/org.eclipse.jgit-4.3.1.201605051710-r.jar
+2019-04-26 17:29:55,899 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.53/jsch-0.1.53.jar
+2019-04-26 17:29:56,088 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.53/jsch-0.1.53.jar
+2019-04-26 17:29:56,224 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/javaewah/JavaEWAH/0.7.9/JavaEWAH-0.7.9.jar
+2019-04-26 17:29:56,381 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/javaewah/JavaEWAH/0.7.9/JavaEWAH-0.7.9.jar
+2019-04-26 17:29:56,513 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar
+2019-04-26 17:29:56,771 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar
+2019-04-26 17:29:56,911 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.jar
+2019-04-26 17:29:57,104 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.jar
+2019-04-26 17:29:57,238 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+2019-04-26 17:29:57,417 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+2019-04-26 17:29:57,546 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+2019-04-26 17:29:57,686 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+2019-04-26 17:30:03,941 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Nielter\Java\workspace_Spring\Projetos\.git
+2019-04-26 17:30:04,894 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.user.name Nielter Brenno
+2019-04-26 17:30:04,896 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.user.email nielter.cirqueira@wba.com.br
+2019-04-26 17:30:04,945 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.branch master
+2019-04-26 17:30:04,949 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = false
+2019-04-26 17:30:04,950 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -DEVEL
+2019-04-26 17:30:04,951 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2019-04-26 17:30:04,964 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[]]
+2019-04-26 17:30:04,965 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2019-04-26 17:30:04,966 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - HEAD is [e888a05d0aeca1b5c53d4e5bb49c85c7b9ae3f65]
+2019-04-26 17:30:05,200 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.describe e888a05-DEVEL
+2019-04-26 17:30:05,201 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id e888a05d0aeca1b5c53d4e5bb49c85c7b9ae3f65
+2019-04-26 17:30:05,202 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.abbrev e888a05
+2019-04-26 17:30:05,321 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.dirty true
+2019-04-26 17:30:05,323 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.user.name Nielter Brenno
+2019-04-26 17:30:05,323 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.user.email nielter.cirqueira@wba.com.br
+2019-04-26 17:30:05,323 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.message.full primeito Commit
+2019-04-26 17:30:05,323 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.message.short primeito Commit
+2019-04-26 17:30:05,329 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.time 26.04.2019 @ 12:07:22 GMT-08:00
+2019-04-26 17:30:05,330 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.remote.origin.url null
+2019-04-26 17:30:05,347 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.tags 
+2019-04-26 17:30:05,355 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[]]
+2019-04-26 17:30:05,356 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.closest.tag.name 
+2019-04-26 17:30:05,364 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[]]
+2019-04-26 17:30:05,364 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.closest.tag.commit.count 
+2019-04-26 17:30:05,364 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.time 26.04.2019 @ 12:30:05 GMT-08:00
+2019-04-26 17:30:05,364 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.version 0.0.1-SNAPSHOT
+2019-04-26 17:30:05,365 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.host WBA0069
+2019-04-26 17:30:05,365 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.describe-short e888a05-DEVEL
+2019-04-26 17:30:05,377 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.user.email
+2019-04-26 17:30:05,377 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.host
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.dirty
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.closest.tag.name
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.version
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.branch
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.user.name
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.closest.tag.commit.count
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.tags
+2019-04-26 17:30:05,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.time
+2019-04-26 17:30:05,426 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing properties file to [C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\target\testing.properties] (for module eventosapp)...
+2019-04-26 17:30:05,428 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - eventosapp] project eventosapp
+2019-04-26 17:30:05,431 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Nielter\Java\workspace_Spring\Projetos\.git
+2019-04-26 17:30:05,439 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.user.name Nielter Brenno
+2019-04-26 17:30:05,442 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.user.email nielter.cirqueira@wba.com.br
+2019-04-26 17:30:05,445 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.branch master
+2019-04-26 17:30:05,445 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = false
+2019-04-26 17:30:05,445 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -DEVEL
+2019-04-26 17:30:05,446 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2019-04-26 17:30:05,448 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[]]
+2019-04-26 17:30:05,448 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2019-04-26 17:30:05,449 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - HEAD is [e888a05d0aeca1b5c53d4e5bb49c85c7b9ae3f65]
+2019-04-26 17:30:05,564 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.describe e888a05-DEVEL
+2019-04-26 17:30:05,564 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id e888a05d0aeca1b5c53d4e5bb49c85c7b9ae3f65
+2019-04-26 17:30:05,565 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.abbrev e888a05
+2019-04-26 17:30:05,695 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.dirty true
+2019-04-26 17:30:05,695 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.user.name Nielter Brenno
+2019-04-26 17:30:05,696 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.user.email nielter.cirqueira@wba.com.br
+2019-04-26 17:30:05,696 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.message.full primeito Commit
+2019-04-26 17:30:05,696 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.message.short primeito Commit
+2019-04-26 17:30:05,696 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.time 26.04.2019 @ 12:07:22 GMT-08:00
+2019-04-26 17:30:05,697 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.remote.origin.url null
+2019-04-26 17:30:05,705 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.tags 
+2019-04-26 17:30:05,713 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[]]
+2019-04-26 17:30:05,713 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.closest.tag.name 
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[]]
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.closest.tag.commit.count 
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.time 26.04.2019 @ 12:30:05 GMT-08:00
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.version 0.0.1-SNAPSHOT
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.build.host WBA0069
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - git.commit.id.describe-short e888a05-DEVEL
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.user.email
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.host
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.dirty
+2019-04-26 17:30:05,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.closest.tag.name
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.version
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.branch
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.user.name
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.closest.tag.commit.count
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.tags
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - found property git.build.time
+2019-04-26 17:30:05,722 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Reading existing properties file [C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\target\testing.properties] (for module eventosapp)...
+2019-04-26 17:30:05,723 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Properties file [C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\target\testing.properties] is up-to-date (for module eventosapp)...
+2019-04-26 17:30:05,723 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - eventosapp] project eventosapp
+2019-04-26 17:30:05,882 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:30:05,884 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 17:30:05,885 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 17:30:05,888 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:30:05,888 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:35:45,295 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eventosapp:eventosapp:0.0.1-SNAPSHOT @ C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\pom.xml.
+2019-04-26 17:35:47,647 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:35:47,666 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 17:35:47,667 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 17:35:47,670 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:35:47,671 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:35:53,820 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:35:53,895 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 17:35:53,985 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 17:35:55,034 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:35:55,035 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:41:35,019 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:41:35,034 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 17:41:35,050 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 17:41:35,064 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:41:35,064 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:41:50,437 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:41:50,453 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 17:41:50,470 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 17:41:50,486 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 17:41:50,486 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 17:55:18,810 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-26 18:05:37,226 [Worker-6: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-04-26 18:05:43,463 [Worker-6: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eventosapp:eventosapp:0.0.1-SNAPSHOT @ C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\pom.xml.
+2019-04-26 18:05:45,238 [Worker-6: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-04-26 18:05:45,781 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 18:05:45,804 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 18:05:45,834 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 18:05:45,883 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 18:05:45,883 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-26 18:05:50,356 [Worker-7: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-04-26 18:05:50,367 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 18:05:50,404 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 18:05:50,437 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-26 18:05:50,784 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 18:05:50,785 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
+2019-04-30 14:28:08,800 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-30 14:28:36,162 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-30 14:28:36,193 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-30 14:28:36,210 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-04-30 14:28:36,940 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-30 14:28:36,940 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Nielter\Java\workspace_Spring\Projetos\cursospringboot\src\test\resources
